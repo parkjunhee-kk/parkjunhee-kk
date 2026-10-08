@@ -27,6 +27,7 @@ Ajou University
 | [Reinforce learning with attention to optimize bond portfolio] | 채권 포트폴리오 최적화 |
 | [Gibbs Phenomenon] | Fourier series overshooting on discontinuity point |
 | [EV path optimization] | 전기차 경로 최적화 |
+| [Risk spillover portfolio based TGN | 파인드알파 파이널 프로젝트|
 
 ## Contact
 
