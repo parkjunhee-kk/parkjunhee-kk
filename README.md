@@ -10,7 +10,7 @@ Ajou University
 ## About
 
 - 금융공학 문제에 딥러닝과 수치해석을 적용하는 연구를 하고 있습니다.
-- 관심 분야: 포트폴리오 최적화, 파생상품 가격결정, 금리 기간구조, 변동성 모델링
+- 관심 분야: 포트폴리오 최적화, 파생상품 가격결정, 딥러닝
 
 ## Tech Stack
 
@@ -18,7 +18,6 @@ Ajou University
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ## Projects
@@ -26,6 +25,8 @@ Ajou University
 | Project | Description |
 |---|---|
 | [Reinforce learning with attention to optimize bond portfolio] | 채권 포트폴리오 최적화 |
+| [Gibbs Phenomenon] | Fourier series overshooting on discontinuity point |
+| [EV path optimization] | 전기차 경로 최적화 |
 
 ## Contact
 
